@@ -87,7 +87,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-size: cover;
+background-size: cover;
 }
 
 .sub_page .hero_area {
